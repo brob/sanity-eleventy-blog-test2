@@ -18,10 +18,10 @@ export default {
                 'NOTE: Because these sites are static builds, they need to be re-deployed to see the changes when documents are published.',
               sites: [
                 {
-                  buildHookId: '',
+                  buildHookId: '5f0f0e49980bda5407497cb1',
                   title: 'Sanity Studio',
-                  name: '',
-                  apiId: ''
+                  name: 'sanity-eleventy-blog-test-2-studio',
+                  apiId: 'ee28081d-ee6f-4553-9e81-9e11bfc470a3'
                 },
                 {
                   buildHookId: '',
